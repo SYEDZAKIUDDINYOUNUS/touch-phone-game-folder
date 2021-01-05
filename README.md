@@ -1,2 +1,2 @@
 # touch-phone-game-folder
-game folder
+games folder
